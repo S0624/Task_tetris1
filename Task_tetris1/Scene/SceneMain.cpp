@@ -49,7 +49,6 @@ void SceneMain::Init()
 
 		}
 	}
-
 	//for (int i = 0; i < kBlocHeight; i++)
 	//{
 	//	printfDx("\n");
